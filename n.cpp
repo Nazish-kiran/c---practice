@@ -7,4 +7,5 @@ int main() {
     cout << setw(10) << "Alice" << setw(10) << 30 << endl;
     cout << setw(10) << "Bob"   << setw(10) << 25 << endl;
     return 0;
+    
 }
